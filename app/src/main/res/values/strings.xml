@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndependentSecondaryDisplay</string>
+    <string name="main_btn_text">Send to Main</string>
+    <string name="secondary_btn_text">Send to Secondary</string>
+    <string name="tertiary_btn_text">Send to Tertiary</string>
+    <string name="null_text">null</string>
+</resources>
